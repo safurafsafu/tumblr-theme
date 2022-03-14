@@ -1,4 +1,6 @@
-             <meta name="if:Endless scrolling" content="1">
+            ENDLESS SCROLL
+            
+            <meta name="if:Endless scrolling" content="1">
             
             var Optica = {};
             Optica.ENDLESS_SCROLLING = {block:IfEndlessScrolling}true{/block:IfEndlessScrolling}{block:IfNotEndlessScrolling}false{/block:IfNotEndlessScrolling};
